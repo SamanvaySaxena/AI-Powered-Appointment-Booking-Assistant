@@ -6,6 +6,18 @@
 
 #### The system receives appointment requests through a Tally form, sends the request to a Flask API for processing, uses Google Gemini to extract the appointment date, time and purpose from natural language, returns the structured information to Make.com, checks Google Calendar for slot availability, automatically books available appointments, stores all records in Google Sheets, and generates professional email drafts for unavailable appointment requests.
 
+## ❗ Problem It Solves
+
+#### Many businesses lose time and money due to inefficient appointment scheduling processes:
+
+#### - Customers have to manually wait for replies to book appointments
+#### - Staff spend time going back and forth to confirm availability
+#### - Missed appointments due to poor coordination or delays
+#### - No automated system to handle bookings outside business hours
+#### - Scheduling errors when managing multiple clients manually
+
+#### This results in lost leads, reduced customer satisfaction, and wasted operational time.
+
 ## Screenshots
 
 ### Tally Form
