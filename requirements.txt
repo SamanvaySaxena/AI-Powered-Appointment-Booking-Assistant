@@ -1,0 +1,9 @@
+flask
+python-dotenv
+google-genai
+pytz
+requests
+datetime
+json
+os
+re
