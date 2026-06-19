@@ -2,7 +2,7 @@
 
 ## Overview
 
-#### An automated appointment booking system built using Flask, Google Gemini, Make.com, Tally Forms, ngrok, Google Calendar and Google Sheets.
+#### An automated appointment booking system built using Flask, Google Gemini, Make.com, Tally Forms, render, Google Calendar and Google Sheets.
 
 #### The system receives appointment requests through a Tally form, sends the request to a Flask API for processing, uses Google Gemini to extract the appointment date, time and purpose from natural language, returns the structured information to Make.com, checks Google Calendar for slot availability, automatically books available appointments, stores all records in Google Sheets, and generates professional email drafts for unavailable appointment requests.
 
@@ -75,7 +75,7 @@
 * Tally Forms
 * Google Calendar
 * Google Sheets
-* ngrok
+* render
 
 ## Workflow
 
